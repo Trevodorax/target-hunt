@@ -1,9 +1,12 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:Trevodorax/target-hunt-frontend.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = git@github.com:Trevodorax/target-hunt-backend.git
+	branch = main
 [submodule "bridge"]
 	path = bridge
 	url = git@github.com:Trevodorax/target-hunt-bridge.git
+	branch = main
